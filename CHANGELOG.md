@@ -10,5 +10,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Initial configuration.
 
-[Unreleased]: https://github.com/erikavacacela/custom-input/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/erikavacacela/custom-input/compare/v0.0.1...HEAD
 [0.0.1]: https://github.com/erikavacacela/custom-input/releases/tag/v0.0.1
